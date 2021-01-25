@@ -1,0 +1,19 @@
+.Post {
+  border: 1px solid black;
+  height: 120px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.title {
+  color: darkblue;
+  font-size: 24px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.link{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
